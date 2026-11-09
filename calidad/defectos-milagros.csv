@@ -1,0 +1,2 @@
+ID,Fecha,FaseInyeccion,FaseRemocion,TipoDefecto,TiempoReparacion,Descripcion 
+1,2026-11-08,E0_Setup,E0_Setup,Permisos_Git,15,"Error 403 al hacer push por credenciales de Windows" 
