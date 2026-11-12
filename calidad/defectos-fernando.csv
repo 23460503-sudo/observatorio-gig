@@ -1,2 +1,6 @@
 ID,Fecha,FaseInyeccion,FaseRemocion,TipoDefecto,TiempoReparacion,Descripcion 
 1,2026-11-08,E0_Setup,E0_Setup,Documentacion,10,"Ajuste en preguntas analiticas de propuesta.md" 
+2,2026-11-09,E1_Codigo,E1_Pruebas,Datos,20,"Formato mixto en cadenas de moneda ($ y MXN) generaba NaN al convertir a float en Capa Plata" 
+3,2026-11-10,E1_Codigo,E1_Pruebas,Interfaz,15,"UserWarning al redondear columnas DateTime en agregacion de Capa Oro, solucionado seleccionando solo columnas numericas" 
+4,2026-11-12,E1_Codigo,E1_Pruebas,Datos,15,"pd.to_datetime con format='mixed' confundia dia y mes en fechas mexicanas; corregido con funcion parse_fecha_robusta" 
+5,2026-11-12,E1_Codigo,E1_Pruebas,Interfaz,10,"statsmodels 0.15 requeria explicitamente initialization_method='estimated' en SimpleExpSmoothing y Holt-Winters" 

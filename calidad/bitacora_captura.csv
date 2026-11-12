@@ -1,0 +1,29 @@
+id_ejecucion,fecha_hora,fuente,estado,codigo_http,latencia_ms,registros_capturados,tiempo_reparacion_min,detalle
+RUN-CAP-001,2026-11-06 00:00:00,Open-Meteo & Gig Telemetry,EXITO,200,278,70,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-002,2026-11-06 06:00:00,Open-Meteo & Gig Telemetry,EXITO,200,365,69,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-003,2026-11-06 12:00:00,Open-Meteo & Gig Telemetry,EXITO,200,192,74,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-004,2026-11-06 18:00:00,Open-Meteo & Gig Telemetry,EXITO,200,172,71,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-005,2026-11-07 00:00:00,Open-Meteo & Gig Telemetry,EXITO,200,237,69,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-006,2026-11-07 06:00:00,Open-Meteo & Gig Telemetry,EXITO,200,262,71,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-007,2026-11-07 12:00:00,Open-Meteo & Gig Telemetry,EXITO,200,252,69,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-008,2026-11-07 18:00:00,Open-Meteo & Gig Telemetry,EXITO,200,120,72,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-009,2026-11-08 00:00:00,Open-Meteo & Gig Telemetry,EXITO,200,280,71,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-010,2026-11-08 06:00:00,Open-Meteo & Gig Telemetry,EXITO,200,213,72,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-011,2026-11-08 12:00:00,Open-Meteo & Gig Telemetry,EXITO,200,206,71,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-012,2026-11-08 18:00:00,Open-Meteo & Gig Telemetry,FALLO,504,240,0,25,Gateway Timeout en API externa
+RUN-CAP-013,2026-11-09 00:00:00,Open-Meteo & Gig Telemetry,EXITO,200,278,74,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-014,2026-11-09 06:00:00,Open-Meteo & Gig Telemetry,EXITO,200,222,71,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-015,2026-11-09 12:00:00,Open-Meteo & Gig Telemetry,EXITO,200,148,68,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-016,2026-11-09 18:00:00,Open-Meteo & Gig Telemetry,EXITO,200,193,73,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-017,2026-11-10 00:00:00,Open-Meteo & Gig Telemetry,EXITO,200,140,72,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-018,2026-11-10 06:00:00,Open-Meteo & Gig Telemetry,EXITO,200,245,68,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-019,2026-11-10 12:00:00,Open-Meteo & Gig Telemetry,EXITO,200,345,73,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-020,2026-11-10 18:00:00,Open-Meteo & Gig Telemetry,EXITO,200,340,72,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-021,2026-11-11 00:00:00,Open-Meteo & Gig Telemetry,EXITO,200,202,73,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-022,2026-11-11 06:00:00,Open-Meteo & Gig Telemetry,FALLO,503,250,0,30,Service Unavailable temporal por mantenimiento
+RUN-CAP-023,2026-11-11 12:00:00,Open-Meteo & Gig Telemetry,EXITO,200,249,68,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-024,2026-11-11 18:00:00,Open-Meteo & Gig Telemetry,EXITO,200,244,71,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-025,2026-11-12 00:00:00,Open-Meteo & Gig Telemetry,EXITO,200,237,69,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-026,2026-11-12 06:00:00,Open-Meteo & Gig Telemetry,EXITO,200,294,72,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-027,2026-11-12 12:00:00,Open-Meteo & Gig Telemetry,EXITO,200,199,73,0,Extracción completada y validada en Capa Bronce
+RUN-CAP-028,2026-11-12 18:00:00,Open-Meteo & Gig Telemetry,EXITO,200,332,71,0,Extracción completada y validada en Capa Bronce

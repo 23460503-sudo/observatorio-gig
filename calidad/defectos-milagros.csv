@@ -1,2 +1,5 @@
 ID,Fecha,FaseInyeccion,FaseRemocion,TipoDefecto,TiempoReparacion,Descripcion 
 1,2026-11-08,E0_Setup,E0_Setup,Permisos_Git,15,"Error 403 al hacer push por credenciales de Windows" 
+2,2026-11-09,E1_Diseno,E1_Revision,Verificacion,25,"Discrepancia en zona horaria entre Open-Meteo UTC y registros de viajes locales en Colima" 
+3,2026-11-10,E1_Codigo,E1_Pruebas,Datos,15,"Manejo de nulos en Pandera previo a imputacion enviaba registros imputables a cuarentena; se ajusto esquema para admitir nulos temporales antes de imputacion" 
+4,2026-11-12,E1_Diseno,E1_Pruebas,Verificacion,15,"Parametros p=2 y q=1 de ARIMA generaban advertencia de no invertibilidad inicial; solucionado especificando d=0 con serie estacionaria" 

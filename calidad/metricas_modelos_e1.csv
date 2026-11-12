@@ -1,0 +1,5 @@
+modelo,MAE,RMSE,MAPE_pct
+Modelo de Holt-Winters (Tendencia + Estacionalidad),62.04,87.61,36.02
+Suavizamiento Exponencial Simple (SES),71.55,105.25,41.24
+"ARIMA(2,0,1)",71.59,105.25,41.27
+Modelo de Holt (Tendencia),71.53,103.62,42.75

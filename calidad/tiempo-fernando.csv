@@ -1,2 +1,7 @@
 Fase,Fecha,TiempoInicio,TiempoFin,TiempoInterrupcion,TiempoNeto,Descripcion 
 E0_Setup,2026-11-08,10:00,11:00,0,60,"Revision conjunta de propuesta y verificacion de repositorio" 
+E1_Diseno,2026-11-09,15:00,16:30,10,80,"Diseno de arquitectura Medallion y definicion de reglas de cuarentena" 
+E1_Codigo,2026-11-09,16:30,18:30,15,105,"Implementacion de pipeline de limpieza, tratamiento de faltantes y atipicos" 
+E1_Pruebas,2026-11-10,14:00,16:00,0,120,"Pruebas de ejecucion de puerta de calidad con Pandera y verificacion de cuarentena" 
+E1_Codigo,2026-11-11,16:00,18:00,10,110,"Desarrollo de suite de pruebas unitarias pytest y plan SQA bajo IEEE 730" 
+E1_Codigo,2026-11-12,10:00,12:00,0,120,"Implementacion de modelos de pronostico (Holt-Winters, ARIMA) y diagnostico de residuos" 

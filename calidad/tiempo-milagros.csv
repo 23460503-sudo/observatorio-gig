@@ -1,3 +1,8 @@
 Fase,Fecha,TiempoInicio,TiempoFin,TiempoInterrupcion,TiempoNeto,Descripcion 
 E0_Setup,2026-11-08,10:00,11:30,10,80,"Configuracion de repositorio y subida de propuesta" 
 E0_Calidad,2026-11-08,11:30,12:00,0,30,"Creacion de estructura de calidad PSP" 
+E1_Diseno,2026-11-09,15:00,16:30,0,90,"Revision de fuentes de datos de Open-Meteo y definicion de jerarquias conceptuales" 
+E1_Revision,2026-11-10,10:00,12:00,15,105,"Validacion de esquema Pandera, diccionario de datos y ficha de entrega E1" 
+E1_Documentacion,2026-11-10,14:00,15:30,0,90,"Elaboracion de relatoria E1 y documentacion de arquitectura" 
+E1_Diseno,2026-11-11,15:30,17:30,15,105,"Elaboracion de matriz de requerimientos verificables SRS e investigacion de normas" 
+E1_Revision,2026-11-12,10:30,12:15,0,105,"Evaluacion comparativa de errores MAE/RMSE/MAPE y redaccion de informe de auditoria de seguridad" 
