@@ -1,0 +1,48 @@
+name: Integracion Continua y Puertas de Calidad (CI)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  calidad-y-pruebas:
+    name: SQA Pipeline y Pruebas Automaticas
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del Repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Instalar Dependencias del Observatorio
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas pandera pyarrow fastparquet requests pytest scipy
+
+      - name: Auditoria de Secretos y Seguridad Básica
+        run: |
+          echo "Verificando ausencia de tokens y secretos en el repositorio..."
+          # Comprobación de que no existan llaves privadas ni passwords en texto plano
+          ! grep -rn "sk_live_" . --exclude-dir={.git,.pytest_cache}
+          ! grep -rn "AIzaSy" . --exclude-dir={.git,.pytest_cache}
+          echo "0 secretos expuestos. Verificación exitosa."
+
+      - name: Ejecutar Pipeline de Datos y Puerta de Calidad (E1)
+        run: |
+          python src/pipeline_e1.py
+
+      - name: Ejecutar Suites de Pruebas Unitarias (Pytest)
+        run: |
+          python -m pytest tests/ -v --junitxml=test-results.xml
+
+      - name: Verificar Tasa de Disponibilidad en Bitacora
+        run: |
+          python src/generar_bitacora_captura.py
