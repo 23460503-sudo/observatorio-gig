@@ -1,0 +1,374 @@
+fecha_hora_hora,zona,municipio,total_viajes,ganancia_neta_promedio,ganancia_neta_mediana,tarifa_dinamica_promedio,duracion_promedio_min,distancia_promedio_km,temperatura_promedio_c,lluvia_acumulada_mm,viajes_alta_demanda
+2026-10-26 07:00:00,Plaza Country / San Fernando,Colima,1,159.39,159.39,1.15,41.3,11.62,26.6,0.0,0
+2026-10-26 07:00:00,Tercer Anillo Comercial,Colima,1,56.88,56.88,1.06,17.8,3.24,26.6,0.0,0
+2026-10-26 09:00:00,Colima Centro,Colima,1,61.01,61.01,1.01,17.9,4.35,26.6,0.0,0
+2026-10-26 10:00:00,Tercer Anillo Comercial,Colima,1,51.17,51.17,1.1,17.1,2.33,26.6,0.0,0
+2026-10-26 11:00:00,Avenida Tecnologico,Villa de Alvarez,1,142.65,142.65,1.13,45.3,10.84,26.6,0.0,0
+2026-10-26 11:00:00,Plaza Country / San Fernando,Colima,1,91.5,91.5,1.15,30.3,6.31,26.6,0.0,0
+2026-10-26 12:00:00,Plaza Country / San Fernando,Colima,1,45.21,45.21,1.04,14.2,1.54,26.6,0.0,0
+2026-10-26 13:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,215.26,215.26,1.62,44.6,11.23,26.6,0.0,0
+2026-10-26 14:00:00,Colima Centro,Colima,1,132.66,132.66,1.35,30.4,7.57,26.6,0.0,0
+2026-10-26 16:00:00,Avenida Tecnologico,Villa de Alvarez,1,53.44,53.44,1.06,13.9,2.39,26.6,0.0,0
+2026-10-26 16:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,162.29,162.29,1.2,39.9,11.59,26.6,0.0,0
+2026-10-26 18:00:00,Avenida Tecnologico,Villa de Alvarez,1,105.13,105.13,1.17,28.2,7.58,26.6,0.0,0
+2026-10-26 18:00:00,Colima Centro,Colima,1,169.89,169.89,1.23,43.7,7.7,26.6,0.0,0
+2026-10-26 19:00:00,Avenida Tecnologico,Villa de Alvarez,1,72.1,72.1,1.35,22.3,3.82,26.6,0.0,0
+2026-10-26 20:00:00,Tercer Anillo Comercial,Colima,1,102.62,102.62,1.86,20.9,4.05,26.6,0.0,0
+2026-10-26 21:00:00,Colima Centro,Colima,1,152.1,152.1,1.62,29.1,7.82,26.6,0.0,0
+2026-10-26 22:00:00,Tercer Anillo Comercial,Colima,1,104.09,104.09,1.6,23.5,4.64,26.6,0.0,0
+2026-10-26 23:00:00,Plaza Country / San Fernando,Colima,1,50.29,50.29,1.14,20.6,2.9,26.6,0.0,0
+2026-10-27 00:00:00,Colima Centro,Colima,1,77.91,77.91,1.22,17.0,4.13,26.6,0.0,0
+2026-10-27 00:00:00,Tercer Anillo Comercial,Colima,1,99.52,99.52,1.2,34.3,6.65,26.6,0.0,0
+2026-10-27 02:00:00,Colima Centro,Colima,1,181.44,181.44,1.24,57.9,13.01,24.3,0.0,0
+2026-10-27 02:00:00,Tercer Anillo Comercial,Colima,1,109.13,109.13,1.01,38.9,8.96,24.3,0.0,0
+2026-10-27 03:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,79.93,79.93,1.15,22.6,5.26,24.0,0.0,0
+2026-10-27 04:00:00,Tercer Anillo Comercial,Colima,1,132.36,132.36,1.13,40.4,9.41,23.7,0.0,0
+2026-10-27 05:00:00,Avenida Tecnologico,Villa de Alvarez,1,129.65,129.65,1.05,41.8,10.2,23.3,0.0,0
+2026-10-27 06:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,79.6,79.6,1.21,26.9,4.97,22.9,0.1,0
+2026-10-27 07:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,83.35,83.35,1.02,30.4,6.59,22.4,0.0,0
+2026-10-27 09:00:00,Plaza Country / San Fernando,Colima,1,196.22,196.22,1.23,60.4,13.76,21.8,0.0,0
+2026-10-27 10:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,43.02,43.02,1.05,9.2,1.75,21.3,0.0,0
+2026-10-27 11:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,61.22,61.22,1.24,13.3,2.85,21.0,0.0,0
+2026-10-27 12:00:00,Avenida Tecnologico,Villa de Alvarez,1,162.11,162.11,1.2,46.4,8.68,21.2,0.0,0
+2026-10-27 12:00:00,Plaza Country / San Fernando,Colima,1,101.64,101.64,1.18,37.8,6.94,21.2,0.0,0
+2026-10-27 13:00:00,Colima Centro,Colima,1,135.87,135.87,1.47,36.1,7.14,20.9,0.0,0
+2026-10-27 14:00:00,Avenida Tecnologico,Villa de Alvarez,1,108.6,108.6,1.72,23.6,4.95,22.1,0.0,0
+2026-10-27 14:00:00,Plaza Country / San Fernando,Colima,1,122.37,122.37,1.72,26.5,5.33,22.1,0.0,0
+2026-10-27 16:00:00,Tercer Anillo Comercial,Colima,1,102.24,102.24,1.0,36.5,8.18,25.9,0.0,0
+2026-10-27 17:00:00,Colima Centro,Colima,1,149.98,149.98,1.06,40.2,12.27,27.0,0.0,0
+2026-10-27 17:00:00,Plaza Country / San Fernando,Colima,1,152.92,152.92,1.15,42.9,11.38,27.0,0.0,0
+2026-10-27 18:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,79.31,79.31,1.16,18.8,4.81,27.4,0.0,0
+2026-10-27 19:00:00,Plaza Country / San Fernando,Colima,1,85.28,85.28,1.34,22.9,4.42,27.0,0.5,0
+2026-10-27 20:00:00,Tercer Anillo Comercial,Colima,1,233.25,233.25,1.66,57.6,11.8,26.4,0.6,0
+2026-10-27 21:00:00,Plaza Country / San Fernando,Colima,2,147.49,147.49,1.8,26.05,6.41,26.1,0.4,0
+2026-10-27 22:00:00,Plaza Country / San Fernando,Colima,1,228.46,228.46,1.47,62.5,13.31,26.4,0.0,0
+2026-10-27 23:00:00,Avenida Tecnologico,Villa de Alvarez,1,147.12,147.12,1.2,37.6,10.37,25.9,0.0,0
+2026-10-28 01:00:00,Avenida Tecnologico,Villa de Alvarez,1,39.8,39.8,1.07,15.0,1.53,24.5,0.0,0
+2026-10-28 02:00:00,Avenida Tecnologico,Villa de Alvarez,1,57.94,57.94,1.08,15.3,2.75,24.0,0.0,0
+2026-10-28 02:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,76.56,76.56,1.14,21.5,4.42,24.0,0.0,0
+2026-10-28 03:00:00,Plaza Country / San Fernando,Colima,1,162.25,162.25,1.16,60.6,12.15,23.8,0.0,0
+2026-10-28 04:00:00,Plaza Country / San Fernando,Colima,1,156.65,156.65,1.24,47.7,11.0,23.3,0.0,0
+2026-10-28 05:00:00,Avenida Tecnologico,Villa de Alvarez,1,64.89,64.89,1.17,18.9,3.75,23.0,0.0,0
+2026-10-28 06:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,161.3,161.3,1.02,64.8,13.32,23.3,0.0,0
+2026-10-28 07:00:00,Avenida Tecnologico,Villa de Alvarez,1,130.83,130.83,1.06,52.7,10.94,22.7,0.0,0
+2026-10-28 09:00:00,Colima Centro,Colima,1,136.6,136.6,1.11,46.2,9.91,22.1,0.3,0
+2026-10-28 09:00:00,Tercer Anillo Comercial,Colima,1,107.68,107.68,1.2,29.8,7.35,22.1,0.3,0
+2026-10-28 10:00:00,Colima Centro,Colima,1,101.8,101.8,1.16,36.7,7.3,22.2,0.0,0
+2026-10-28 11:00:00,Tercer Anillo Comercial,Colima,1,153.19,153.19,1.17,53.5,10.79,22.1,0.0,0
+2026-10-28 11:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,172.8,172.8,1.11,60.6,13.38,22.1,0.0,0
+2026-10-28 13:00:00,Avenida Tecnologico,Villa de Alvarez,1,182.64,182.64,1.3,41.2,12.23,21.4,1.0,0
+2026-10-28 15:00:00,Colima Centro,Colima,1,126.46,126.46,1.34,33.9,7.49,22.5,0.7,0
+2026-10-28 16:00:00,Plaza Country / San Fernando,Colima,1,134.58,134.58,1.1,40.6,10.62,23.0,0.1,0
+2026-10-28 17:00:00,Avenida Tecnologico,Villa de Alvarez,1,152.73,152.73,1.01,58.2,13.46,23.9,0.2,0
+2026-10-28 18:00:00,Avenida Tecnologico,Villa de Alvarez,1,58.92,58.92,1.13,21.3,3.43,22.9,0.0,0
+2026-10-28 19:00:00,Avenida Tecnologico,Villa de Alvarez,1,196.66,196.66,1.32,60.1,13.11,24.0,0.7,0
+2026-10-28 19:00:00,Colima Centro,Colima,1,132.4,132.4,1.36,34.1,8.13,24.0,0.7,0
+2026-10-28 21:00:00,Plaza Country / San Fernando,Colima,1,96.53,96.53,1.62,24.1,4.38,24.8,0.4,0
+2026-10-28 21:00:00,Tercer Anillo Comercial,Colima,1,108.24,108.24,1.33,27.6,6.44,24.8,0.4,0
+2026-10-28 22:00:00,Plaza Country / San Fernando,Colima,1,146.04,146.04,1.73,23.3,6.72,24.2,0.4,0
+2026-10-28 23:00:00,Plaza Country / San Fernando,Colima,1,150.31,150.31,1.22,42.8,10.82,24.5,0.1,0
+2026-10-28 23:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,54.3,54.3,1.06,19.5,3.67,24.5,0.1,0
+2026-10-29 01:00:00,Tercer Anillo Comercial,Colima,2,140.92,140.92,1.12,45.8,10.82,22.6,0.4,0
+2026-10-29 02:00:00,Colima Centro,Colima,1,144.6,144.6,1.11,59.0,11.64,22.4,0.1,0
+2026-10-29 03:00:00,Tercer Anillo Comercial,Colima,1,45.26,45.26,1.17,13.7,2.15,22.2,0.0,0
+2026-10-29 04:00:00,Plaza Country / San Fernando,Colima,1,39.63,39.63,1.13,15.4,1.73,22.1,0.1,0
+2026-10-29 05:00:00,Tercer Anillo Comercial,Colima,1,132.16,132.16,1.22,39.3,9.23,21.9,0.0,0
+2026-10-29 06:00:00,Plaza Country / San Fernando,Colima,1,75.25,75.25,1.06,28.4,4.49,21.6,0.0,0
+2026-10-29 06:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,55.67,55.67,1.22,13.4,2.15,21.6,0.0,0
+2026-10-29 07:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,173.55,173.55,1.2,60.9,12.56,21.4,0.0,0
+2026-10-29 08:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,153.17,153.17,1.01,55.6,7.06,21.3,0.0,0
+2026-10-29 09:00:00,Colima Centro,Colima,1,78.34,78.34,1.19,18.1,4.47,21.2,0.0,0
+2026-10-29 10:00:00,Colima Centro,Colima,1,187.13,187.13,1.16,47.6,13.76,21.1,0.0,0
+2026-10-29 11:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,141.22,141.22,1.21,51.3,10.06,21.0,0.0,0
+2026-10-29 12:00:00,Avenida Tecnologico,Villa de Alvarez,1,152.12,152.12,1.1,45.4,11.69,20.9,0.0,0
+2026-10-29 12:00:00,Plaza Country / San Fernando,Colima,1,100.96,100.96,1.22,34.7,6.33,20.9,0.0,0
+2026-10-29 13:00:00,Colima Centro,Colima,1,158.27,158.27,1.35,39.6,9.76,21.0,0.0,0
+2026-10-29 14:00:00,Colima Centro,Colima,1,158.01,158.01,1.35,41.0,7.7,22.6,0.0,0
+2026-10-29 15:00:00,Avenida Tecnologico,Villa de Alvarez,1,68.34,68.34,1.32,17.8,3.42,24.5,0.0,0
+2026-10-29 15:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,127.63,127.63,1.6,28.6,6.34,24.5,0.0,0
+2026-10-29 16:00:00,Plaza Country / San Fernando,Colima,1,173.59,173.59,1.25,61.6,11.63,26.5,0.0,0
+2026-10-29 18:00:00,Avenida Tecnologico,Villa de Alvarez,1,72.59,72.59,1.16,22.8,3.77,29.3,0.0,0
+2026-10-29 18:00:00,Colima Centro,Colima,1,175.53,175.53,1.08,62.9,13.99,29.3,0.0,0
+2026-10-29 19:00:00,Avenida Tecnologico,Villa de Alvarez,1,266.47,266.47,1.84,46.4,12.07,29.8,0.0,0
+2026-10-29 20:00:00,Avenida Tecnologico,Villa de Alvarez,1,197.48,197.48,1.73,45.3,9.06,29.5,0.0,0
+2026-10-29 21:00:00,Colima Centro,Colima,1,182.42,182.42,1.6,40.4,9.34,28.9,0.0,0
+2026-10-29 22:00:00,Tercer Anillo Comercial,Colima,1,124.75,124.75,1.66,29.9,5.41,28.2,0.0,0
+2026-10-29 22:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,91.31,91.31,1.36,25.0,5.13,28.2,0.0,0
+2026-10-29 23:00:00,Plaza Country / San Fernando,Colima,1,82.34,82.34,1.12,24.8,5.36,27.0,0.0,0
+2026-10-30 01:00:00,Avenida Tecnologico,Villa de Alvarez,1,175.5,175.5,1.07,58.7,13.86,24.3,0.0,0
+2026-10-30 01:00:00,Colima Centro,Colima,1,80.84,80.84,1.03,26.6,5.66,24.3,0.0,0
+2026-10-30 02:00:00,Avenida Tecnologico,Villa de Alvarez,1,115.19,115.19,1.12,33.9,8.54,23.7,0.0,0
+2026-10-30 03:00:00,Avenida Tecnologico,Villa de Alvarez,1,144.37,144.37,1.14,44.1,10.52,23.3,0.0,0
+2026-10-30 03:00:00,Plaza Country / San Fernando,Colima,1,131.63,131.63,1.04,43.9,10.13,23.3,0.0,0
+2026-10-30 04:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,117.97,117.97,1.11,38.2,8.16,23.1,0.0,0
+2026-10-30 06:00:00,Colima Centro,Colima,1,93.77,93.77,1.09,29.1,7.03,22.6,0.0,0
+2026-10-30 07:00:00,Tercer Anillo Comercial,Colima,1,125.54,125.54,1.08,45.2,9.57,22.3,0.0,0
+2026-10-30 08:00:00,Plaza Country / San Fernando,Colima,1,65.87,65.87,1.2,24.7,3.83,22.0,0.0,0
+2026-10-30 09:00:00,Avenida Tecnologico,Villa de Alvarez,1,162.29,162.29,1.13,44.7,12.62,21.6,0.0,0
+2026-10-30 09:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,146.56,146.56,1.04,61.6,12.2,21.6,0.0,0
+2026-10-30 10:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,76.96,76.96,1.11,23.3,4.84,21.1,0.0,0
+2026-10-30 11:00:00,Avenida Tecnologico,Villa de Alvarez,1,182.4,182.4,1.23,59.6,12.6,20.7,0.0,0
+2026-10-30 12:00:00,Avenida Tecnologico,Villa de Alvarez,2,121.06,121.06,1.23,36.8,7.5,20.7,0.0,0
+2026-10-30 13:00:00,Plaza Country / San Fernando,Colima,1,232.84,232.84,2.28,38.6,8.48,20.6,0.0,0
+2026-10-30 14:00:00,Colima Centro,Colima,1,94.64,94.64,2.72,13.6,2.36,22.3,0.0,0
+2026-10-30 16:00:00,Avenida Tecnologico,Villa de Alvarez,1,113.79,113.79,1.01,39.2,8.97,26.1,0.0,0
+2026-10-30 16:00:00,Plaza Country / San Fernando,Colima,1,85.4,85.4,1.21,20.5,4.59,26.1,0.0,0
+2026-10-30 17:00:00,Plaza Country / San Fernando,Colima,1,44.54,44.54,1.14,14.6,2.09,27.7,0.0,0
+2026-10-30 18:00:00,Tercer Anillo Comercial,Colima,1,61.7,61.7,1.21,15.2,3.3,28.5,0.0,0
+2026-10-30 20:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,112.27,112.27,2.75,19.7,2.97,29.4,0.0,0
+2026-10-30 21:00:00,Avenida Tecnologico,Villa de Alvarez,1,292.2,292.2,2.72,34.7,8.74,29.3,0.0,1
+2026-10-30 21:00:00,Tercer Anillo Comercial,Colima,1,214.27,214.27,2.22,32.8,7.72,29.3,0.0,0
+2026-10-30 23:00:00,Plaza Country / San Fernando,Colima,1,112.32,112.32,1.03,31.4,9.38,26.9,0.0,0
+2026-10-30 23:00:00,Tercer Anillo Comercial,Colima,1,78.73,78.73,1.13,26.4,5.08,26.9,0.0,0
+2026-10-31 00:00:00,Plaza Country / San Fernando,Colima,1,159.01,159.01,1.02,53.0,13.49,25.3,0.0,0
+2026-10-31 01:00:00,Colima Centro,Colima,1,144.55,144.55,1.16,39.2,10.29,24.1,0.0,0
+2026-10-31 02:00:00,Avenida Tecnologico,Villa de Alvarez,1,144.05,144.05,1.06,50.6,11.93,23.6,0.0,0
+2026-10-31 02:00:00,Colima Centro,Colima,1,150.87,150.87,1.23,39.8,7.7,23.6,0.0,0
+2026-10-31 03:00:00,Avenida Tecnologico,Villa de Alvarez,1,100.82,100.82,1.24,29.8,6.46,23.3,0.0,0
+2026-10-31 04:00:00,Tercer Anillo Comercial,Colima,1,152.16,152.16,1.2,34.7,10.41,22.9,0.0,0
+2026-10-31 05:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,109.62,109.62,1.11,34.8,8.46,22.5,0.0,0
+2026-10-31 06:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,60.78,60.78,1.14,16.5,3.62,22.2,0.0,0
+2026-10-31 07:00:00,Avenida Tecnologico,Villa de Alvarez,1,49.17,49.17,1.05,19.1,2.84,21.8,0.0,0
+2026-10-31 07:00:00,Tercer Anillo Comercial,Colima,1,138.41,138.41,1.15,41.1,10.19,21.8,0.0,0
+2026-10-31 08:00:00,Avenida Tecnologico,Villa de Alvarez,1,158.95,158.95,1.05,51.8,13.97,21.7,0.0,0
+2026-10-31 09:00:00,Tercer Anillo Comercial,Colima,1,117.3,117.3,1.06,47.6,9.73,21.6,0.0,0
+2026-10-31 10:00:00,Tercer Anillo Comercial,Colima,2,132.49,132.49,1.21,39.0,9.26,21.3,0.0,0
+2026-10-31 11:00:00,Colima Centro,Colima,1,85.34,85.34,1.12,26.3,5.19,20.9,0.0,0
+2026-10-31 11:00:00,Plaza Country / San Fernando,Colima,1,83.65,83.65,1.08,25.7,5.25,20.9,0.0,0
+2026-10-31 12:00:00,Plaza Country / San Fernando,Colima,1,75.66,75.66,1.24,19.6,4.4,21.1,0.0,0
+2026-10-31 13:00:00,Colima Centro,Colima,1,314.11,314.11,2.29,48.2,11.49,20.9,0.0,1
+2026-10-31 14:00:00,Plaza Country / San Fernando,Colima,1,250.3,250.3,2.32,37.0,8.69,22.0,0.0,0
+2026-10-31 14:00:00,Tercer Anillo Comercial,Colima,1,188.73,188.73,2.02,30.0,7.22,22.0,0.0,0
+2026-10-31 15:00:00,Tercer Anillo Comercial,Colima,1,260.8,260.8,2.74,29.4,7.56,24.6,0.0,0
+2026-10-31 17:00:00,Colima Centro,Colima,1,110.45,110.45,1.19,28.2,7.02,27.6,0.0,0
+2026-10-31 17:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,134.3,134.3,1.05,51.6,10.72,27.6,0.0,0
+2026-10-31 18:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,137.56,137.56,1.08,38.8,10.3,28.5,0.0,0
+2026-10-31 19:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,106.08,106.08,2.44,14.9,3.16,28.8,0.0,0
+2026-10-31 20:00:00,Colima Centro,Colima,1,273.46,273.46,2.08,52.4,10.87,29.0,0.0,1
+2026-10-31 21:00:00,Plaza Country / San Fernando,Colima,1,258.17,258.17,1.62,46.5,13.12,28.8,0.0,0
+2026-10-31 22:00:00,Tercer Anillo Comercial,Colima,1,200.5,200.5,1.7,41.7,9.81,27.5,0.0,0
+2026-10-31 23:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,96.41,96.41,1.13,25.3,7.06,26.3,0.0,0
+2026-11-01 00:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,143.68,143.68,1.23,37.2,9.2,25.9,0.0,0
+2026-11-01 01:00:00,Colima Centro,Colima,1,122.82,122.82,1.06,41.3,9.01,24.8,0.0,0
+2026-11-01 02:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,55.37,55.37,1.12,17.8,2.91,25.0,0.0,0
+2026-11-01 04:00:00,Colima Centro,Colima,2,116.81,116.81,1.1,36.0,8.5,24.6,0.0,0
+2026-11-01 05:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,177.85,177.85,1.19,54.1,12.42,24.2,0.0,0
+2026-11-01 06:00:00,Plaza Country / San Fernando,Colima,1,73.89,73.89,1.23,19.8,3.74,24.3,0.0,0
+2026-11-01 06:00:00,Tercer Anillo Comercial,Colima,1,146.25,146.25,1.01,41.8,12.24,24.3,0.0,0
+2026-11-01 07:00:00,Avenida Tecnologico,Villa de Alvarez,1,41.12,41.12,1.17,13.5,2.16,23.9,0.0,0
+2026-11-01 08:00:00,Colima Centro,Colima,1,89.89,89.89,1.06,33.8,5.83,23.7,0.0,0
+2026-11-01 08:00:00,Tercer Anillo Comercial,Colima,1,84.29,84.29,1.14,26.7,5.3,23.7,0.0,0
+2026-11-01 09:00:00,Colima Centro,Colima,1,59.96,59.96,1.24,14.1,3.28,23.4,0.0,0
+2026-11-01 10:00:00,Plaza Country / San Fernando,Colima,1,103.69,103.69,1.02,40.2,8.6,23.0,0.0,0
+2026-11-01 11:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,57.22,57.22,1.02,23.7,4.03,22.8,0.0,0
+2026-11-01 12:00:00,Tercer Anillo Comercial,Colima,1,57.85,57.85,1.21,16.1,2.63,23.8,0.1,0
+2026-11-01 13:00:00,Plaza Country / San Fernando,Colima,1,232.51,232.51,2.05,43.6,9.38,23.7,0.1,0
+2026-11-01 13:00:00,Tercer Anillo Comercial,Colima,1,313.61,313.61,1.91,45.4,13.88,23.7,0.1,1
+2026-11-01 14:00:00,Plaza Country / San Fernando,Colima,1,256.04,256.04,1.66,54.2,13.05,23.8,0.5,0
+2026-11-01 15:00:00,Colima Centro,Colima,1,271.38,271.38,2.34,42.4,9.21,24.4,0.2,1
+2026-11-01 16:00:00,Tercer Anillo Comercial,Colima,1,165.77,165.77,1.01,59.8,13.89,25.6,0.0,0
+2026-11-01 17:00:00,Plaza Country / San Fernando,Colima,1,153.08,153.08,1.09,55.0,11.99,27.1,0.0,0
+2026-11-01 18:00:00,Plaza Country / San Fernando,Colima,1,66.09,66.09,1.14,14.0,8.26,27.9,0.0,0
+2026-11-01 18:00:00,Tercer Anillo Comercial,Colima,1,49.41,49.41,1.01,17.4,3.35,27.9,0.0,0
+2026-11-01 20:00:00,Colima Centro,Colima,1,131.29,131.29,2.72,17.9,3.26,28.1,0.1,0
+2026-11-01 20:00:00,Plaza Country / San Fernando,Colima,1,249.38,249.38,1.97,38.6,10.11,28.1,0.1,0
+2026-11-01 21:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,64.13,64.13,1.9,11.4,2.35,27.6,0.1,0
+2026-11-01 22:00:00,Colima Centro,Colima,1,353.78,353.78,2.59,51.3,11.36,27.6,0.0,1
+2026-11-01 23:00:00,Plaza Country / San Fernando,Colima,1,44.84,44.84,1.04,20.6,2.44,26.9,0.0,0
+2026-11-01 23:00:00,Tercer Anillo Comercial,Colima,1,65.71,65.71,1.05,23.5,3.87,26.9,0.0,0
+2026-11-02 01:00:00,Tercer Anillo Comercial,Colima,2,75.0,75.0,1.01,26.65,5.45,25.6,0.0,0
+2026-11-02 03:00:00,Plaza Country / San Fernando,Colima,2,137.13,137.13,1.12,43.85,10.24,24.7,0.0,0
+2026-11-02 04:00:00,Colima Centro,Colima,1,134.09,134.09,1.2,40.2,9.29,24.3,0.0,0
+2026-11-02 05:00:00,Tercer Anillo Comercial,Colima,1,101.65,101.65,1.1,32.3,7.57,24.1,0.0,0
+2026-11-02 06:00:00,Tercer Anillo Comercial,Colima,1,136.94,136.94,1.01,43.8,11.72,24.7,0.0,0
+2026-11-02 07:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,65.48,65.48,1.22,14.9,4.01,23.9,0.0,0
+2026-11-02 08:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,120.02,120.02,1.09,36.8,8.93,23.1,0.0,0
+2026-11-02 09:00:00,Colima Centro,Colima,1,112.51,112.51,1.04,47.4,8.65,22.7,0.0,0
+2026-11-02 09:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,132.04,132.04,1.16,30.1,9.01,22.7,0.0,0
+2026-11-02 10:00:00,Avenida Tecnologico,Villa de Alvarez,1,104.23,104.23,1.21,25.8,6.46,22.4,0.0,0
+2026-11-02 11:00:00,Tercer Anillo Comercial,Colima,1,126.61,126.61,1.07,49.9,10.39,22.4,0.0,0
+2026-11-02 12:00:00,Tercer Anillo Comercial,Colima,1,112.08,112.08,1.23,33.7,6.56,22.5,0.0,0
+2026-11-02 13:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,120.5,120.5,1.75,27.4,5.34,22.2,0.0,0
+2026-11-02 14:00:00,Villa de Álvarez Norte,Villa de Alvarez,2,199.13,199.13,1.68,40.6,9.96,23.1,0.0,0
+2026-11-02 16:00:00,Colima Centro,Colima,1,70.64,70.64,1.16,23.8,4.61,27.3,0.0,0
+2026-11-02 17:00:00,Avenida Tecnologico,Villa de Alvarez,1,107.97,107.97,1.13,31.4,6.92,28.8,0.0,0
+2026-11-02 17:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,43.86,43.86,1.05,10.3,1.77,28.8,0.0,0
+2026-11-02 18:00:00,Colima Centro,Colima,1,47.62,47.62,1.01,14.4,2.95,29.5,0.0,0
+2026-11-02 19:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,229.6,229.6,1.55,54.0,12.73,30.2,0.0,0
+2026-11-02 20:00:00,Colima Centro,Colima,2,163.04,163.04,1.68,35.55,7.82,30.3,0.0,0
+2026-11-02 21:00:00,Tercer Anillo Comercial,Colima,1,64.26,64.26,1.56,21.8,2.95,29.8,0.0,0
+2026-11-02 22:00:00,Tercer Anillo Comercial,Colima,1,116.97,116.97,1.41,33.8,6.51,28.9,0.0,0
+2026-11-02 23:00:00,Avenida Tecnologico,Villa de Alvarez,1,122.69,122.69,1.12,37.8,8.61,27.5,0.0,0
+2026-11-02 23:00:00,Tercer Anillo Comercial,Colima,1,145.03,145.03,1.0,53.8,12.35,27.5,0.0,0
+2026-11-03 00:00:00,Plaza Country / San Fernando,Colima,1,135.24,135.24,1.04,58.4,11.83,26.8,0.0,0
+2026-11-03 01:00:00,Colima Centro,Colima,1,110.67,110.67,1.13,37.6,8.38,25.8,0.0,0
+2026-11-03 02:00:00,Tercer Anillo Comercial,Colima,1,131.19,131.19,1.14,40.9,7.57,25.2,0.0,0
+2026-11-03 04:00:00,Colima Centro,Colima,1,60.52,60.52,1.01,18.8,3.55,25.0,0.0,0
+2026-11-03 05:00:00,Avenida Tecnologico,Villa de Alvarez,1,183.72,183.72,1.2,55.4,12.88,24.6,0.0,0
+2026-11-03 07:00:00,Plaza Country / San Fernando,Colima,1,170.52,170.52,1.17,56.1,8.26,24.3,0.0,0
+2026-11-03 09:00:00,Avenida Tecnologico,Villa de Alvarez,1,111.39,111.39,1.1,40.7,7.89,23.6,0.0,0
+2026-11-03 10:00:00,Tercer Anillo Comercial,Colima,1,145.38,145.38,1.05,58.8,12.36,23.4,0.0,0
+2026-11-03 10:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,47.83,47.83,1.25,18.9,2.43,23.4,0.0,0
+2026-11-03 11:00:00,Avenida Tecnologico,Villa de Alvarez,1,112.39,112.39,1.04,34.3,8.29,23.0,0.0,0
+2026-11-03 12:00:00,Tercer Anillo Comercial,Colima,1,170.61,170.61,1.11,56.6,12.81,23.0,0.0,0
+2026-11-03 14:00:00,Colima Centro,Colima,1,97.37,97.37,1.41,22.3,4.65,23.7,0.0,0
+2026-11-03 14:00:00,Plaza Country / San Fernando,Colima,1,106.1,106.1,1.8,26.3,4.07,23.7,0.0,0
+2026-11-03 15:00:00,Avenida Tecnologico,Villa de Alvarez,1,170.76,170.76,1.34,40.1,10.82,25.6,0.0,0
+2026-11-03 16:00:00,Colima Centro,Colima,1,118.06,118.06,1.12,30.5,8.17,27.3,0.0,0
+2026-11-03 17:00:00,Colima Centro,Colima,1,120.17,120.17,1.14,28.4,8.44,28.7,0.0,0
+2026-11-03 18:00:00,Avenida Tecnologico,Villa de Alvarez,1,55.29,55.29,1.04,19.4,3.8,29.7,0.0,0
+2026-11-03 19:00:00,Colima Centro,Colima,1,81.0,81.0,1.45,24.7,3.97,29.8,0.0,0
+2026-11-03 19:00:00,Tercer Anillo Comercial,Colima,1,92.79,92.79,1.72,21.5,3.4,29.8,0.0,0
+2026-11-03 20:00:00,Colima Centro,Colima,1,266.28,266.28,1.74,61.1,12.65,29.6,0.1,0
+2026-11-03 20:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,131.11,131.11,1.71,26.5,5.64,29.6,0.1,0
+2026-11-03 22:00:00,Villa de Álvarez Norte,Villa de Alvarez,2,90.44,90.44,1.54,24.95,4.02,28.6,0.0,0
+2026-11-03 23:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,156.65,156.65,1.13,48.8,11.39,27.3,0.0,0
+2026-11-04 00:00:00,Avenida Tecnologico,Villa de Alvarez,1,125.68,125.68,1.04,40.7,9.67,26.8,0.0,0
+2026-11-04 01:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,65.44,65.44,1.11,21.0,4.37,25.5,0.0,0
+2026-11-04 02:00:00,Avenida Tecnologico,Villa de Alvarez,2,141.0,141.0,1.16,45.35,10.01,25.1,0.0,0
+2026-11-04 03:00:00,Avenida Tecnologico,Villa de Alvarez,1,93.76,93.76,1.02,31.9,7.45,24.8,0.0,0
+2026-11-04 04:00:00,Tercer Anillo Comercial,Colima,1,148.96,148.96,1.22,45.6,10.22,24.7,0.0,0
+2026-11-04 05:00:00,Avenida Tecnologico,Villa de Alvarez,2,105.82,105.82,1.08,36.25,8.02,24.6,0.0,0
+2026-11-04 06:00:00,Avenida Tecnologico,Villa de Alvarez,1,136.09,136.09,1.09,50.8,10.32,24.4,0.0,0
+2026-11-04 07:00:00,Colima Centro,Colima,1,159.57,159.57,1.2,49.7,11.79,24.3,0.0,0
+2026-11-04 08:00:00,Colima Centro,Colima,1,124.41,124.41,1.09,46.8,9.69,24.3,0.0,0
+2026-11-04 09:00:00,Avenida Tecnologico,Villa de Alvarez,1,144.93,144.93,1.07,57.1,11.87,24.2,0.0,0
+2026-11-04 10:00:00,Avenida Tecnologico,Villa de Alvarez,1,80.64,80.64,1.02,31.5,5.18,24.1,0.0,0
+2026-11-04 11:00:00,Plaza Country / San Fernando,Colima,1,168.53,168.53,1.17,60.6,12.71,24.0,0.0,0
+2026-11-04 12:00:00,Tercer Anillo Comercial,Colima,1,43.81,43.81,1.06,19.2,2.66,23.9,0.0,0
+2026-11-04 12:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,74.64,74.64,1.06,19.3,4.53,23.9,0.0,0
+2026-11-04 13:00:00,Avenida Tecnologico,Villa de Alvarez,1,276.83,276.83,1.87,46.7,12.1,24.1,0.0,1
+2026-11-04 14:00:00,Avenida Tecnologico,Villa de Alvarez,1,131.7,131.7,1.38,38.0,8.07,24.7,0.0,0
+2026-11-04 14:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,62.72,62.72,1.53,18.5,2.76,24.7,0.0,0
+2026-11-04 15:00:00,Tercer Anillo Comercial,Colima,1,134.83,134.83,1.52,30.2,6.51,26.1,0.0,0
+2026-11-04 16:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,46.46,46.46,1.12,9.6,1.62,27.3,0.2,0
+2026-11-04 17:00:00,Tercer Anillo Comercial,Colima,1,192.63,192.63,1.22,49.5,13.54,28.2,0.2,0
+2026-11-04 17:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,137.28,137.28,1.02,49.5,11.67,28.2,0.2,0
+2026-11-04 18:00:00,Plaza Country / San Fernando,Colima,1,108.75,108.75,1.15,41.4,7.3,29.3,0.1,0
+2026-11-04 20:00:00,Tercer Anillo Comercial,Colima,1,225.85,225.85,1.86,34.3,10.26,30.0,0.0,0
+2026-11-04 22:00:00,Avenida Tecnologico,Villa de Alvarez,1,193.63,193.63,1.86,35.0,8.36,28.5,0.0,0
+2026-11-04 22:00:00,Colima Centro,Colima,1,116.83,116.83,1.57,24.8,6.07,28.5,0.0,0
+2026-11-04 23:00:00,Plaza Country / San Fernando,Colima,1,126.69,126.69,1.2,44.1,8.96,27.3,0.0,0
+2026-11-05 01:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,63.1,63.1,1.0,23.3,4.21,25.5,0.0,0
+2026-11-05 02:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,140.33,140.33,1.05,59.2,12.02,24.9,0.0,0
+2026-11-05 03:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,81.56,81.56,1.16,22.1,5.56,24.7,0.0,0
+2026-11-05 04:00:00,Colima Centro,Colima,1,83.37,83.37,1.17,33.8,5.73,24.6,0.0,0
+2026-11-05 05:00:00,Plaza Country / San Fernando,Colima,1,39.83,39.83,1.18,14.2,1.77,24.6,0.0,0
+2026-11-05 06:00:00,Colima Centro,Colima,1,85.68,85.68,1.15,28.6,6.05,24.5,0.0,0
+2026-11-05 06:00:00,Plaza Country / San Fernando,Colima,1,141.17,141.17,1.07,58.7,11.89,24.5,0.0,0
+2026-11-05 07:00:00,Colima Centro,Colima,1,114.1,114.1,1.02,37.6,9.74,24.5,0.0,0
+2026-11-05 08:00:00,Avenida Tecnologico,Villa de Alvarez,1,92.18,92.18,1.06,26.8,6.08,24.6,0.0,0
+2026-11-05 08:00:00,Plaza Country / San Fernando,Colima,1,163.23,163.23,1.21,40.5,11.43,24.6,0.0,0
+2026-11-05 09:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,123.15,123.15,1.05,46.2,9.71,24.3,0.0,0
+2026-11-05 10:00:00,Avenida Tecnologico,Villa de Alvarez,1,84.0,84.0,1.1,27.5,5.72,23.9,0.0,0
+2026-11-05 11:00:00,Tercer Anillo Comercial,Colima,1,127.31,127.31,1.15,35.4,8.54,23.7,0.0,0
+2026-11-05 12:00:00,Plaza Country / San Fernando,Colima,1,53.29,53.29,1.09,18.1,3.23,23.3,0.0,0
+2026-11-05 12:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,95.16,95.16,1.25,22.0,5.27,23.3,0.0,0
+2026-11-05 13:00:00,Avenida Tecnologico,Villa de Alvarez,1,79.64,79.64,1.79,13.7,2.69,23.3,0.0,0
+2026-11-05 14:00:00,Colima Centro,Colima,1,101.34,101.34,1.82,24.1,4.33,24.1,0.0,0
+2026-11-05 15:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,170.5,170.5,1.33,43.0,10.64,25.5,0.0,0
+2026-11-05 16:00:00,Avenida Tecnologico,Villa de Alvarez,1,53.82,53.82,1.06,15.2,2.4,26.9,0.0,0
+2026-11-05 17:00:00,Villa de Álvarez Norte,Villa de Alvarez,2,157.7,157.7,1.25,56.0,11.14,28.2,0.0,0
+2026-11-05 19:00:00,Plaza Country / San Fernando,Colima,1,57.02,57.02,1.69,10.4,1.6,30.0,0.0,0
+2026-11-05 20:00:00,Colima Centro,Colima,1,170.31,170.31,1.84,32.5,7.56,29.7,0.0,0
+2026-11-05 21:00:00,Colima Centro,Colima,1,124.22,124.22,1.51,27.4,5.9,29.2,0.0,0
+2026-11-05 22:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,205.35,205.35,1.39,53.4,12.71,28.1,0.0,0
+2026-11-05 23:00:00,Tercer Anillo Comercial,Colima,1,108.37,108.37,1.02,37.1,8.16,27.5,0.0,0
+2026-11-06 00:00:00,Avenida Tecnologico,Villa de Alvarez,1,129.37,129.37,1.12,35.7,8.68,26.9,0.0,0
+2026-11-06 00:00:00,Tercer Anillo Comercial,Colima,1,68.87,68.87,1.04,14.8,3.85,26.9,0.0,0
+2026-11-06 01:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,56.03,56.03,1.19,20.1,2.33,25.8,0.1,0
+2026-11-06 02:00:00,Avenida Tecnologico,Villa de Alvarez,1,115.82,115.82,1.15,43.1,8.07,25.5,0.0,0
+2026-11-06 03:00:00,Avenida Tecnologico,Villa de Alvarez,1,129.61,129.61,1.03,57.2,11.23,25.2,0.0,0
+2026-11-06 03:00:00,Colima Centro,Colima,1,91.11,91.11,1.05,38.5,6.99,25.2,0.0,0
+2026-11-06 05:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,53.22,53.22,1.04,17.0,3.31,24.6,0.0,0
+2026-11-06 06:00:00,Plaza Country / San Fernando,Colima,1,120.32,120.32,1.21,32.5,8.29,24.1,0.0,0
+2026-11-06 07:00:00,Avenida Tecnologico,Villa de Alvarez,1,150.19,150.19,1.17,45.6,10.25,24.0,0.0,0
+2026-11-06 07:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,60.55,60.55,1.01,16.4,3.35,24.0,0.0,0
+2026-11-06 08:00:00,Avenida Tecnologico,Villa de Alvarez,1,93.1,93.1,1.02,31.2,7.39,23.9,0.0,0
+2026-11-06 09:00:00,Plaza Country / San Fernando,Colima,1,129.22,129.22,1.18,45.5,9.06,23.7,0.0,0
+2026-11-06 10:00:00,Villa de Álvarez Norte,Villa de Alvarez,2,64.88,64.88,1.11,20.3,4.21,23.5,0.0,0
+2026-11-06 11:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,144.6,144.6,1.05,58.4,11.92,23.2,0.0,0
+2026-11-06 12:00:00,Plaza Country / San Fernando,Colima,1,52.73,52.73,1.23,15.1,2.2,23.4,0.0,0
+2026-11-06 12:00:00,Tercer Anillo Comercial,Colima,1,140.03,140.03,1.25,46.5,9.33,23.4,0.0,0
+2026-11-06 13:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,287.96,287.96,2.05,46.0,11.87,22.9,0.0,1
+2026-11-06 14:00:00,Plaza Country / San Fernando,Colima,1,299.1,299.1,2.07,42.1,12.31,24.1,0.0,1
+2026-11-06 14:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,287.96,287.96,1.83,59.5,13.05,24.1,0.0,1
+2026-11-06 15:00:00,Tercer Anillo Comercial,Colima,1,130.32,130.32,2.37,17.9,4.12,25.7,0.0,0
+2026-11-06 16:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,122.48,122.48,1.14,36.9,8.37,27.1,0.0,0
+2026-11-06 17:00:00,Colima Centro,Colima,1,45.7,45.7,1.03,11.9,2.17,28.2,0.0,0
+2026-11-06 18:00:00,Plaza Country / San Fernando,Colima,2,99.96,99.96,1.1,35.8,7.82,28.9,0.0,0
+2026-11-06 19:00:00,Avenida Tecnologico,Villa de Alvarez,1,243.32,243.32,1.72,54.0,11.72,30.2,0.0,0
+2026-11-06 20:00:00,Tercer Anillo Comercial,Colima,1,229.91,229.91,1.85,45.8,10.18,30.1,0.0,0
+2026-11-06 21:00:00,Colima Centro,Colima,1,207.36,207.36,2.31,36.0,7.29,29.5,0.0,0
+2026-11-06 22:00:00,Colima Centro,Colima,1,241.47,241.47,1.71,59.8,11.71,28.5,0.0,0
+2026-11-06 22:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,169.17,169.17,2.42,30.0,5.46,28.5,0.0,0
+2026-11-06 23:00:00,Tercer Anillo Comercial,Colima,1,149.72,149.72,1.02,59.7,12.76,27.8,0.0,0
+2026-11-07 00:00:00,Colima Centro,Colima,1,144.52,144.52,1.04,59.0,12.56,26.9,0.0,0
+2026-11-07 00:00:00,Plaza Country / San Fernando,Colima,1,92.73,92.73,1.1,26.1,6.94,26.9,0.0,0
+2026-11-07 01:00:00,Plaza Country / San Fernando,Colima,1,105.35,105.35,1.14,28.6,7.13,25.8,0.0,0
+2026-11-07 02:00:00,Tercer Anillo Comercial,Colima,1,101.36,101.36,1.03,33.9,7.52,25.3,0.0,0
+2026-11-07 03:00:00,Avenida Tecnologico,Villa de Alvarez,1,149.44,149.44,1.19,43.2,10.59,24.8,0.0,0
+2026-11-07 03:00:00,Colima Centro,Colima,1,125.58,125.58,1.17,38.5,8.24,24.8,0.0,0
+2026-11-07 04:00:00,Colima Centro,Colima,1,88.88,88.88,1.21,20.0,4.97,24.1,0.0,0
+2026-11-07 05:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,144.38,144.38,1.12,54.4,11.49,23.7,0.0,0
+2026-11-07 06:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,136.07,136.07,1.05,43.7,10.68,24.4,0.0,0
+2026-11-07 07:00:00,Tercer Anillo Comercial,Colima,1,72.42,72.42,1.08,21.9,4.84,23.4,0.0,0
+2026-11-07 08:00:00,Colima Centro,Colima,1,41.95,41.95,1.21,8.6,1.65,22.9,0.0,0
+2026-11-07 09:00:00,Tercer Anillo Comercial,Colima,1,140.91,140.91,1.19,48.3,10.15,22.5,0.0,0
+2026-11-07 09:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,147.77,147.77,1.24,41.8,9.48,22.5,0.0,0
+2026-11-07 10:00:00,Plaza Country / San Fernando,Colima,1,67.35,67.35,1.24,21.4,4.01,22.2,0.0,0
+2026-11-07 11:00:00,Plaza Country / San Fernando,Colima,1,89.08,89.08,1.12,35.1,6.55,22.0,0.0,0
+2026-11-07 11:00:00,Tercer Anillo Comercial,Colima,1,35.82,35.82,1.19,13.9,1.73,22.0,0.0,0
+2026-11-07 13:00:00,Colima Centro,Colima,1,325.5,325.5,2.76,38.0,9.76,21.5,0.0,1
+2026-11-07 13:00:00,Tercer Anillo Comercial,Colima,1,141.88,141.88,2.0,25.3,5.29,21.5,0.0,0
+2026-11-07 14:00:00,Avenida Tecnologico,Villa de Alvarez,1,263.46,263.46,2.15,46.8,9.98,22.9,0.0,0
+2026-11-07 14:00:00,Plaza Country / San Fernando,Colima,1,177.43,177.43,1.68,34.2,8.26,22.9,0.0,0
+2026-11-07 15:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,180.19,180.19,1.62,49.6,9.41,25.5,0.0,0
+2026-11-07 16:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,148.2,148.2,1.11,59.8,11.64,27.5,0.0,0
+2026-11-07 17:00:00,Colima Centro,Colima,1,56.08,56.08,1.03,19.3,3.27,28.7,0.0,0
+2026-11-07 17:00:00,Plaza Country / San Fernando,Colima,1,39.65,39.65,1.02,14.9,1.59,28.7,0.0,0
+2026-11-07 18:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,51.96,51.96,1.15,12.6,1.97,29.5,0.0,0
+2026-11-07 19:00:00,Avenida Tecnologico,Villa de Alvarez,1,196.66,196.66,2.21,32.7,7.3,29.6,0.0,0
+2026-11-07 20:00:00,Colima Centro,Colima,1,132.55,132.55,1.66,23.9,6.05,29.7,0.0,0
+2026-11-07 21:00:00,Colima Centro,Colima,2,275.77,275.77,2.42,40.95,9.04,28.2,0.8,1
+2026-11-07 22:00:00,Colima Centro,Colima,1,83.81,83.81,2.43,15.8,2.25,27.5,0.2,0
+2026-11-07 23:00:00,Avenida Tecnologico,Villa de Alvarez,1,176.54,176.54,1.24,44.9,12.19,26.9,0.1,0
+2026-11-08 00:00:00,Avenida Tecnologico,Villa de Alvarez,1,164.61,164.61,1.06,67.1,13.09,26.6,0.1,0
+2026-11-08 00:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,126.28,126.28,1.02,49.3,10.91,26.6,0.1,0
+2026-11-08 01:00:00,Avenida Tecnologico,Villa de Alvarez,1,91.36,91.36,1.01,38.7,7.19,25.7,0.0,0
+2026-11-08 02:00:00,Plaza Country / San Fernando,Colima,1,85.96,85.96,1.15,25.7,6.07,25.3,0.0,0
+2026-11-08 02:00:00,Tercer Anillo Comercial,Colima,1,80.61,80.61,1.11,28.3,4.87,25.3,0.0,0
+2026-11-08 03:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,151.29,151.29,1.08,52.5,12.72,24.6,0.1,0
+2026-11-08 04:00:00,Plaza Country / San Fernando,Colima,1,163.09,163.09,1.16,59.3,11.5,23.8,0.0,0
+2026-11-08 06:00:00,Colima Centro,Colima,1,75.74,75.74,1.22,26.9,4.4,23.2,0.0,0
+2026-11-08 06:00:00,Tercer Anillo Comercial,Colima,1,74.76,74.76,1.04,27.0,4.75,23.2,0.0,0
+2026-11-08 07:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,143.28,143.28,1.21,44.0,10.16,23.3,0.0,0
+2026-11-08 08:00:00,Tercer Anillo Comercial,Colima,1,65.38,65.38,1.24,21.8,3.35,23.2,0.0,0
+2026-11-08 09:00:00,Avenida Tecnologico,Villa de Alvarez,1,90.7,90.7,1.24,28.9,5.64,23.1,0.0,0
+2026-11-08 09:00:00,Colima Centro,Colima,1,111.72,111.72,1.03,33.7,8.39,23.1,0.0,0
+2026-11-08 11:00:00,Tercer Anillo Comercial,Colima,1,79.48,79.48,1.0,25.4,5.81,22.0,0.0,0
+2026-11-08 12:00:00,Plaza Country / San Fernando,Colima,1,110.74,110.74,1.03,30.5,8.84,21.7,0.0,0
+2026-11-08 12:00:00,Tercer Anillo Comercial,Colima,1,109.16,109.16,1.1,42.1,8.45,21.7,0.0,0
+2026-11-08 13:00:00,Avenida Tecnologico,Villa de Alvarez,1,141.37,141.37,2.49,21.9,4.31,21.3,0.0,0
+2026-11-08 14:00:00,Tercer Anillo Comercial,Colima,1,356.48,356.48,2.19,57.6,13.63,22.6,0.0,1
+2026-11-08 15:00:00,Colima Centro,Colima,1,302.18,302.18,2.22,38.1,11.08,24.9,0.0,1
+2026-11-08 15:00:00,Tercer Anillo Comercial,Colima,1,60.85,60.85,1.8,16.6,2.23,24.9,0.0,0
+2026-11-08 16:00:00,Villa de Álvarez Norte,Villa de Alvarez,1,97.11,97.11,1.0,33.8,7.98,26.8,0.0,0
+2026-11-08 17:00:00,Avenida Tecnologico,Villa de Alvarez,2,164.44,164.44,1.17,48.75,12.02,28.5,0.0,0
+2026-11-08 18:00:00,Colima Centro,Colima,1,143.98,143.98,1.11,36.1,11.04,29.3,0.0,0
+2026-11-08 19:00:00,Tercer Anillo Comercial,Colima,1,314.83,314.83,2.4,54.6,7.57,30.0,0.0,1
+2026-11-08 20:00:00,Colima Centro,Colima,1,429.11,429.11,2.71,61.6,13.01,30.1,0.0,1
+2026-11-08 22:00:00,Avenida Tecnologico,Villa de Alvarez,1,305.14,305.14,2.48,47.3,10.09,27.2,0.1,1
+2026-11-08 22:00:00,Colima Centro,Colima,1,177.32,177.32,2.51,26.1,5.43,27.2,0.1,0
+2026-11-08 23:00:00,Avenida Tecnologico,Villa de Alvarez,1,102.89,102.89,1.21,26.9,6.55,26.3,0.2,0
+2026-11-08 23:00:00,Plaza Country / San Fernando,Colima,1,92.74,92.74,1.17,31.5,6.45,26.3,0.2,0
+2026-11-09 01:00:00,Plaza Country / San Fernando,Colima,1,117.62,117.62,1.25,30.3,8.26,24.7,0.0,0
+2026-11-09 01:00:00,Tercer Anillo Comercial,Colima,1,120.36,120.36,1.04,31.0,9.27,24.7,0.0,0
+2026-11-09 02:00:00,Colima Centro,Colima,1,187.49,187.49,1.25,43.7,12.5,24.1,0.0,0
+2026-11-09 03:00:00,Plaza Country / San Fernando,Colima,1,57.28,57.28,1.12,18.9,2.87,23.9,0.0,0
+2026-11-09 03:00:00,Tercer Anillo Comercial,Colima,1,39.94,39.94,1.08,14.2,1.85,23.9,0.0,0
+2026-11-09 04:00:00,Tercer Anillo Comercial,Colima,1,168.5,168.5,1.15,42.6,12.88,23.4,0.0,0
+2026-11-09 05:00:00,Plaza Country / San Fernando,Colima,1,182.86,182.86,1.15,53.3,13.82,22.8,0.0,0
+2026-11-09 06:00:00,Avenida Tecnologico,Villa de Alvarez,1,78.66,78.66,1.02,25.2,5.71,22.4,0.0,0
+2026-11-09 06:00:00,Plaza Country / San Fernando,Colima,1,124.76,124.76,1.05,45.6,9.44,22.4,0.0,0
+2026-11-09 07:00:00,Plaza Country / San Fernando,Colima,1,110.79,110.79,1.06,38.1,7.94,22.1,0.0,0

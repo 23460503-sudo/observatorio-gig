@@ -1,0 +1,61 @@
+id_registro,fecha_hora_captura,fecha_rechazo,plataforma,columna_error,motivo_rechazo,valor_invalido
+REG-GIG-0003,2026-10-26 08:06:00,2026-11-12T12:30:30.704949,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$196.20 / 1.15
+REG-GIG-0005,2026-10-26 09:43:00,2026-11-12T12:30:30.705210,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 73.02 MXN / 1.15
+REG-GIG-0012,2026-10-26T15:12:00,2026-11-12T12:30:30.705905,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$246.45 / 1.75
+REG-GIG-0015,26/10/2026 17:21,2026-11-12T12:30:30.706251,Uber,Tarifa,"Tarifa dinamica fuera de rango [1.0, 5.0] (valor: 9.99)",$70.59 / 9.99
+REG-GIG-0021,2026-10-26 22:03:00,2026-11-12T12:30:30.706839,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$197.85 / 1.48
+REG-GIG-0026,2026-10-27 01:37:00,2026-11-12T12:30:30.707356,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 145.23 MXN / 1.06
+REG-GIG-0032,2026-10-27 05:48:00,2026-11-12T12:30:30.707952,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),183.77 / 1.11
+REG-GIG-0035,2026-10-27 08:22:00,2026-11-12T12:30:30.708822,DiDi,Ganancia,Ganancia neta debe ser estrictamente positiva (valor: -180.0),$-180.00 / 1.21
+REG-GIG-0037,2026-10-27 09:50:00,2026-11-12T12:30:30.709083,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 190.07 MXN / 1.08
+REG-GIG-0045,27/10/2026 15:37,2026-11-12T12:30:30.709889,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),158.67 / 1.37
+REG-GIG-0055,2026-10-27 23:34:00,2026-11-12T12:30:30.710898,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$105.41 / 1.05
+REG-GIG-0057,2026-10-28 00:48:00,2026-11-12T12:30:30.711198,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$120.71 / 1.1
+REG-GIG-0065,2026-10-28 06:52:00,2026-11-12T12:30:30.714452,Mercado Libre Extra,Tarifa,"Tarifa dinamica fuera de rango [1.0, 5.0] (valor: 9.99)",177.96 / 9.99
+REG-GIG-0067,2026-10-28 08:08:00,2026-11-12T12:30:30.714945,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$118.46 / 1.08
+REG-GIG-0073,2026-10-28 12:35:00,2026-11-12T12:30:30.715919,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$59.82 / 1.24
+REG-GIG-0075,2026-10-28 14:20:00,2026-11-12T12:30:30.716318,Uber,Duracion,Duracion invalida (valor: -15.0),$ 201.19 MXN / 1.33
+REG-GIG-0077,2026-10-28 16:10:00,2026-11-12T12:30:30.716724,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 144.79 MXN / 1.1
+REG-GIG-0083,2026-10-28 20:09:00,2026-11-12T12:30:30.718884,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 66.00 MXN / 1.33
+REG-GIG-0093,2026-10-29 03:35:00,2026-11-12T12:30:30.720570,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 99.65 MXN / 1.23
+REG-GIG-0101,2026-10-29 09:39:00,2026-11-12T12:30:30.721326,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 81.12 MXN / 1.15
+REG-GIG-0111,2026-10-29 17:40:00,2026-11-12T12:30:30.722270,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$69.51 / 1.13
+REG-GIG-0120,2026-10-30 00:15:00,2026-11-12T12:30:30.723115,Mercado Libre Extra,Ganancia,Ganancia neta debe ser estrictamente positiva (valor: -180.0),$-180.00 / 1.21
+REG-GIG-0127,30/10/2026 05:19,2026-11-12T12:30:30.723792,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 140.31 MXN / 1.17
+REG-GIG-0129,2026-10-30 07:03:00,2026-11-12T12:30:30.724006,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$110.77 / 1.01
+REG-GIG-0140,2026-10-30 15:09:00,2026-11-12T12:30:30.725072,Servicio_Ilegal_App,Plataforma,Plataforma no autorizada en catalogo ('Servicio_Ilegal_App'),$290.40 / 1.76
+REG-GIG-0143,30/10/2026 17:14,2026-11-12T12:30:30.725378,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$140.62 / 1.08
+REG-GIG-0146,2026-10-30 19:38:00,2026-11-12T12:30:30.725682,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 144.95 MXN / 1.66
+REG-GIG-0150,2026-10-30T22:46:00,2026-11-12T12:30:30.726095,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$309.69 / 2.15
+REG-GIG-0174,2026-10-31 16:51:00,2026-11-12T12:30:30.728462,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),87.93 / 1.07
+REG-GIG-0180,31/10/2026 20:49,2026-11-12T12:30:30.729078,Uber,Coordenadas,"Coordenadas fuera del area metropolitana Colima/VdA (48.8566, -103.718)",$187.15 / 1.86
+REG-GIG-0184,2026-10-31 23:51:00,2026-11-12T12:30:30.729484,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$173.71 / 1.03
+REG-GIG-0188,01/11/2026 02:56,2026-11-12T12:30:30.729990,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 45.16 MXN / 1.0
+REG-GIG-0205,2026-11-01 15:45:00,2026-11-12T12:30:30.731591,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),465.27 / 2.55
+REG-GIG-0210,2026-11-01 19:36:00,2026-11-12T12:30:30.732099,Servicio_Ilegal_App,Plataforma,Plataforma no autorizada en catalogo ('Servicio_Ilegal_App'),$391.06 / 2.77
+REG-GIG-0219,2026-11-02 02:06:00,2026-11-12T12:30:30.732953,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$115.96 / 1.2
+REG-GIG-0225,2026-11-02 06:56:00,2026-11-12T12:30:30.733549,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),80.73 / 1.05
+REG-GIG-0233,2026-11-02 12:52:00,2026-11-12T12:30:30.734326,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$205.38 / 1.21
+REG-GIG-0237,02/11/2026 16:01,2026-11-12T12:30:30.734721,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),nan / 1.03
+REG-GIG-0251,2026-11-03 02:01:00,2026-11-12T12:30:30.736051,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),134.99 / 1.01
+REG-GIG-0254,2026-11-03 04:36:00,2026-11-12T12:30:30.736363,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 147.30 MXN / 1.01
+REG-GIG-0256,2026-11-03 06:02:00,2026-11-12T12:30:30.736575,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 136.48 MXN / 1.24
+REG-GIG-0257,2026-11-03 06:43:00,2026-11-12T12:30:30.736696,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$219.90 / 1.17
+REG-GIG-0259,03/11/2026 08:17,2026-11-12T12:30:30.736910,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$183.64 / 1.25
+REG-GIG-0263,2026-11-03 11:00:00,2026-11-12T12:30:30.737307,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 189.89 MXN / 1.01
+REG-GIG-0266,2026-11-03 13:38:00,2026-11-12T12:30:30.737612,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 62.94 MXN / 1.57
+REG-GIG-0282,2026-11-04 01:45:00,2026-11-12T12:30:30.739127,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$178.56 / 1.04
+REG-GIG-0291,2026-11-04 08:39:00,2026-11-12T12:30:30.739995,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 156.91 MXN / 1.18
+REG-GIG-0306,2026-11-04 19:35:00,2026-11-12T12:30:30.741519,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),222.85 / 1.73
+REG-GIG-0308,2026-11-04 20:51:00,2026-11-12T12:30:30.741736,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 247.80 MXN / 1.35
+REG-GIG-0312,2026-11-04 23:59:00,2026-11-12T12:30:30.742148,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$140.83 / 1.16
+REG-GIG-0313,2026-11-05 00:38:00,2026-11-12T12:30:30.742268,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$85.73 / 1.15
+REG-GIG-0316,2026-11-05 03:18:00,2026-11-12T12:30:30.742572,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$164.72 / 1.12
+REG-GIG-0333,05/11/2026 16:06,2026-11-12T12:30:30.744171,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$52.16 / 1.1
+REG-GIG-0337,2026-11-05 18:43:00,2026-11-12T12:30:30.744567,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$157.41 / 1.14
+REG-GIG-0342,2026-11-05 22:53:00,2026-11-12T12:30:30.745173,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$184.67 / 1.38
+REG-GIG-0350,2026-11-06 04:31:00,2026-11-12T12:30:30.746139,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 65.28 MXN / 1.18
+REG-GIG-0385,2026-11-07 06:44:00,2026-11-12T12:30:30.749432,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 75.25 MXN / 1.12
+REG-GIG-0415,2026-11-08 05:06:00,2026-11-12T12:30:30.752234,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$137.02 / 1.17
+REG-GIG-0422,2026-11-08 10:27:00,2026-11-12T12:30:30.752902,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),$ 171.56 MXN / 1.21
+REG-GIG-0435,2026-11-08 20:37:00,2026-11-12T12:30:30.754129,Plataforma_Fantasma,Plataforma,Plataforma no autorizada en catalogo ('Plataforma_Fantasma'),386.2 / 2.63
